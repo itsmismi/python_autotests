@@ -63,4 +63,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Михаил Смирнов ([@smirnov](https://t.me/itsmismi))
